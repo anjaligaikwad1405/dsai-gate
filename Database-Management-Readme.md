@@ -40,10 +40,8 @@ Explore these recommended books to enhance your understanding:
 - [**"All of Statistics: A Concise Course in Statistical Inference"**](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by  Larry Wasserman 
   A comprehensive resource for statistical theory and its applications.
 -->
-
-- **[Fundamentals of Database Systems by Elmasri and Navathe, 7th edition](https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-database-systems/P200000003546/9780137502523)** \
-  Official publisher page. Focus on ER modelling, relational models and SQL,
-  normalization, file organization, indexing, and data warehousing.
+- [**"Fundamentals of Database Systems (7th Edition)"**](./data/Database-Management/Fundamentals_of_Database_Systems_(7th_Edition).pdf) by Ramez Elmasri & Shamkant B. Navathe \
+  A comprehensive resource covering database design, ER modeling, relational algebra, SQL, normalization, indexing, transaction processing, distributed databases, and data warehousing.
 - [**"Data Mining Book (Third Edition)"**](https://www.sku.ac.ir/Datafiles/BookLibrary/43/Data-Mining-Concepts-and-Techniques-Han.pdf) \
   Jiawei Han(University of Illinois at Urbana–Champaign),Micheline Kamber,Jian Pei(Simon Fraser University)\
   A comprehensive resource for theory and its applications.
